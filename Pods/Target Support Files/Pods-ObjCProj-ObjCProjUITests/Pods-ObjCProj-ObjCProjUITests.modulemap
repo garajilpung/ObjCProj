@@ -1,0 +1,6 @@
+framework module Pods_ObjCProj_ObjCProjUITests {
+  umbrella header "Pods-ObjCProj-ObjCProjUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

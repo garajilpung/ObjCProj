@@ -1,0 +1,5 @@
+${PODS_ROOT}/Target Support Files/Pods-ObjCProj/Pods-ObjCProj-frameworks.sh
+${BUILT_PRODUCTS_DIR}/AFNetworking/AFNetworking.framework
+${BUILT_PRODUCTS_DIR}/CTAssetsPickerController/CTAssetsPickerController.framework
+${BUILT_PRODUCTS_DIR}/PBJHexagon/PBJHexagon.framework
+${BUILT_PRODUCTS_DIR}/PureLayout/PureLayout.framework
