@@ -1,2 +1,0 @@
-# ObjCProj
-objective-c Example
